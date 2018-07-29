@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum/Baneblade" value="Baneblade"/>
+	<entry name="AstraMilitarum/BanebladeDescription" value="Super-heavy tank unit with devastating firepower."/>
+	<entry name="AstraMilitarum/BanebladeFlavor" value="The Baneblade is an unmistakable icon of the Imperium's armoured supremacy, and many of these honoured machines have served in countless war zones across several millennia of war. Possessed of overwhelming firepower, exceptionally thick armour, and a roaring power-plant that allows it to surge into battle with surprising speed, the Baneblade is a truly deadly foe in any conflict."/>
+	<entry name="AstraMilitarum/Basilisk" value="Basilisk"/>
+	<entry name="AstraMilitarum/BasiliskDescription" value="Long-range artillery tank unit."/>
+	<entry name="AstraMilitarum/BasiliskFlavor" value="When the Imperial Guard go to war, they march to the thunderous report of batteries of Basilisks whose guns can flatten cities and end worlds. Instantly recognisable for the long, looming barrel of its earthshaker cannon, the Basilisk boasts a prodigious range."/>
+	<entry name="AstraMilitarum/Bullgryn" value="Bullgryns"/>
+	<entry name="AstraMilitarum/BullgrynDescription" value="Heavy melee infantry unit."/>
+	<entry name="AstraMilitarum/BullgrynFlavor" value="Bullgryns are clad in custom-made carapace armour and carry crude assault weaponry to capitalise on the abhumans' stature and resilience. These units provide their comrades with a wall of walking cover as they advance across the battlefield, soaking up vast volumes of enemy fire in the process."/>
+	<entry name="AstraMilitarum/Guardsman" value="Guardsmen"/>
+	<entry name="AstraMilitarum/GuardsmanDescription" value="Light infantry unit."/>
+	<entry name="AstraMilitarum/GuardsmanFlavor" value="From the steaming jungles of Catachan to the war-torn fortress world of Cadia, the humble Guardsmen provide the ironclad backbone of the Imperial Guard."/>
+	<entry name="AstraMilitarum/Headquarters" value="<string name='Buildings/AstraMilitarum/Headquarters'/>"/>
+	<entry name="AstraMilitarum/HeadquartersDescription" value="Headquarters unit that represents a city's defenses."/>
+	<entry name="AstraMilitarum/HeadquartersFlavor" value="<string name='Buildings/AstraMilitarum/HeadquartersFlavor'/>"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad" value="Heavy Weapons Squad"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquadDescription" value="Infantry unit equipped to deal with heavily armoured targets."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquadFlavor" value="Infantry heavy weapons are typically crewed by a team of two men; one fires the weapon while the other supplies the ammunition, and between them they can relocate their weapon if needs be."/>
+	<entry name="AstraMilitarum/Hydra" value="Hydra"/>
+	<entry name="AstraMilitarum/HydraDescription" value="Fast tank unit that excels against airborne targets."/>
+	<entry name="AstraMilitarum/HydraFlavor" value="Whether faced by lightning-fast xenos fighters or daemonic, leather-winged monstrosities, the Hydra Flak Tank is ideally equipped to blow aerial foes out of the sky. The Hydra's predictive logic-spirit singles out and locks onto its targets with the tenacity of a predatory beast."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint" value="Imperial Bastion"/>
+	<entry name="AstraMilitarum/ImperialStrongpointDescription" value="Stationary fortification unit."/>
+	<entry name="AstraMilitarum/ImperialStrongpointFlavor" value="An Imperial Bastion is an imposing edifice built from foot-thick ferrocrete and the remains of faithful servants of the Imperium. As they are relatively easy to construct, some planets boast networks of Bastions that span entire continents. Built to withstand orbital strikes and artillery bombardments, there are few weapons capable of razing them in a single blow. It is with good reason that such fortresses often form the cornerstone of a planet's defensive strategy."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank" value="Leman Russ Battle Tank"/>
+	<entry name="AstraMilitarum/LemanRussBattleTankDescription" value="Heavily armoured main battle tank unit."/>
+	<entry name="AstraMilitarum/LemanRussBattleTankFlavor" value="The Leman Russ battle tank is an ironclad declaration of might made manifest. They are the mainstay of the Imperial Guard's armoured forces, lumbering slabs of armour and intolerance whose inexorable advance has ground a billion foes of the Imperium to bloody ruin."/>
+	<entry name="AstraMilitarum/LordCommissar" value="Lord Commissar"/>
+	<entry name="AstraMilitarum/LordCommissarDescription" value="Hero unit that provides bonuses to nearby allied units."/>
+	<entry name="AstraMilitarum/LordCommissarFlavor" value="Amongst the ranks of the Officio Prefectus there are many heroic individuals who have become legend through their deeds. A Lord Commissar is expected to exemplify everything the Imperium strives toward."/>
+	<entry name="AstraMilitarum/MarauderBomber" value="Marauder Bomber"/>
+	<entry name="AstraMilitarum/MarauderBomberDescription" value="Super-heavy bomber unit that obliterates ground targets."/>
+	<entry name="AstraMilitarum/MarauderBomberFlavor" value="Sturdily built and boasting a colossal payload for its size, the Marauder is the archetypal heavy bomber of the Imperium. Powerful engines and capacious fuel tanks give the Marauder a substantial operational reach and, furthermore, allow bomber squadrons to operate effectively in times of sporadic resupply."/>
+	<entry name="AstraMilitarum/PrimarisPsyker" value="Primaris Psyker"/>
+	<entry name="AstraMilitarum/PrimarisPsykerDescription" value="Hero unit with destructive psychic powers."/>
+	<entry name="AstraMilitarum/PrimarisPsykerFlavor" value="Loathed and feared as witches by their superstitious comrades, Primaris Psykers are nonetheless valuable assets to any commander. Though it hardly lessens the constant suspicion they are held in by the Officio Prefectus, each of these psykers possess abilities and control far beyond those of lesser Scholastica Psykana initiates."/>
+	<entry name="AstraMilitarum/ScoutSentinel" value="Scout Sentinels"/>
+	<entry name="AstraMilitarum/ScoutSentinelDescription" value="Light armoured walker unit specialized in reconnaissance."/>
+	<entry name="AstraMilitarum/ScoutSentinelFlavor" value="The Sentinel is a fast-moving combat walker employed to scout dense terrain and provide close infantry fire support. With surprising speed and locomotive dexterity, Sentinels can traverse terrain that would confound other armoured vehicles. The lighter-armoured Scout Sentinels, in particular, are used to range ahead of the main battle line, setting up brutal ambushes or launching pin-point raids."/>
+	<entry name="AstraMilitarum/TankCommander" value="Tank Commander"/>
+	<entry name="AstraMilitarum/TankCommanderDescription" value="Tank hero unit with formidable strength that also boosts nearby allied tank units."/>
+	<entry name="AstraMilitarum/TankCommanderFlavor" value="A Tank Commander rides to battle in the cupola of a mighty Leman Russ battle tank. These grizzled men are virtually one with their machine, possessing an implicit knowledge of armoured warfare in all its forms. The average Tank Commander is a steely eyed ace, heading up a crew of the very best their regiment has to offer."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer" value="Techpriest Enginseers"/>
+	<entry name="AstraMilitarum/TechpriestEnginseerDescription" value="Infantry unit that supports vehicles and founds new cities."/>
+	<entry name="AstraMilitarum/TechpriestEnginseerFlavor" value="Tech-Priest Enginseers serve as custodians for the vehicles of the Imperial Guard. With binary prayers and mystic rites, the Enginseers soothe the machine spirits of their tracked congregation. Without the diligent maintenance of the Enginseers, the Imperial Guard would soon find themselves without the heavy armour vital to their very survival."/>
+	<entry name="AstraMilitarum/Thunderbolt" value="Thunderbolt"/>
+	<entry name="AstraMilitarum/ThunderboltDescription" value="Fast and heavy fighter unit."/>
+	<entry name="AstraMilitarum/ThunderboltFlavor" value="A heavy fighter that combines devastating strike potential with graceful speed and manoeuvrability, the Thunderbolt forms the bulk of the Imperial Navy's intra-atmosphere fighter aircraft. The Thunderbolt is a true workhorse, with a rugged and reliable design both venerated by its crews and respected by its enemies."/>
+	<entry name="AstraMilitarum/Valkyrie" value="Valkyrie"/>
+	<entry name="AstraMilitarum/ValkyrieDescription" value="Versatile airborne transport unit."/>
+	<entry name="AstraMilitarum/ValkyrieFlavor" value="The Valkyrie Assault Carrier is a well-armed, twin-engine attack craft. The durable armour and versatile payload of the Valkyrie chassis combine with the aircraft's powerful engines and stable handling to make it a popular choice for a broad spectrum of battlefield roles."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker" value="Wyrdvane Psykers"/>
+	<entry name="AstraMilitarum/WyrdvanePsykerDescription" value="Psy infantry unit that specializes in debuffs."/>
+	<entry name="AstraMilitarum/WyrdvanePsykerFlavor" value="Wyrdvane Psykers transform the howling might of the Warp into a deadly weapon of Imperial supremacy. They are formed from those Scholastica Psykana inductees not able to control their burgeoning powers without guidance and aid. As individuals, such psykers are unpredictable and unsafe. Yet working in concert, these deadly mutants can be a valuable asset."/>
+	<entry name="CompendiumFlavor" value="Reading the histories of the 41st millenium, one might assume that the galaxy only experiences conflict. That's far from the truth -- most civilians of the Imperium live and die in peace. Yet to be conscripted into an Imperial army is almost a guarantee of death in wars against foul creatures far from your homeworld, in order that the majority of the Imperium can continue to exist in peace."/>
+	<entry name="Necrons/AnnihilationBarge" value="Annihilation Barge"/>
+	<entry name="Necrons/AnnihilationBargeDescription" value="Anti-infantry vehicle unit."/>
+	<entry name="Necrons/AnnihilationBargeFlavor" value="Annihilation Barges are the Necrons' favoured anti-infantry support platforms. At the Overlord's command, the Annihilation Barges' ancient repulsor sleds are coaxed back into life and the vehicles accompany the tomb world's army to war. Each is armed with a linked pair of tesla destructors -- enormous energy cannons that fire arcs of crackling lightning and are death to lightly armoured targets."/>
+	<entry name="Necrons/CanoptekScarab" value="Canoptek Scarabs"/>
+	<entry name="Necrons/CanoptekScarabDescription" value="Close combat swarm unit that overwhelms the enemy with large numbers."/>
+	<entry name="Necrons/CanoptekScarabFlavor" value="Canoptek Scarabs sweep across the battlefield in vast, undulating swarms that devour all in their path. Mindless feeding machines, the Scarabs are constructs designed to break down matter into raw energy that can then be woven into fresh forms. Within the confines of a tomb this process is one of clearing and manufacture, but on the battlefield it is a powerful force of destruction."/>
+	<entry name="Necrons/CanoptekSpyder" value="Canoptek Spyder"/>
+	<entry name="Necrons/CanoptekSpyderDescription" value="Monstrous support unit that founds new cities."/>
+	<entry name="Necrons/CanoptekSpyderFlavor" value="Though essentially an automated drone, a Canoptek Spyder is nonetheless a formidable foe. Its vast array of self-repair and backup systems -- vital for enduring uncaring millennia -- offer substantial protection against incoming fire. In return, any enemy that strays within reach of the Canoptek Spyder will have flesh scoured from bone by a multitude of mechanical tools and pincers."/>
+	<entry name="Necrons/Cryptek" value="Cryptek"/>
+	<entry name="Necrons/CryptekDescription" value="Hero unit with powerful support abilities."/>
+	<entry name="Necrons/CryptekFlavor" value="Crypteks bend the forces of the universe to their will, creating impossible technologies and esoteric weaponry to lay waste to armies and destroy worlds. Time, matter and space are their playthings, as they manipulate the atomic structure of their foes or shift the laws of nature to obliterate all who stand before them."/>
+	<entry name="Necrons/DestroyerLord" value="Destroyer Lord"/>
+	<entry name="Necrons/DestroyerLordDescription" value="Hero unit with exceptional close combat capabilities."/>
+	<entry name="Necrons/DestroyerLordFlavor" value="Destroyer Lords are the most maniacal of their kind. This is chiefly because they retain far more intellect than baseline Destroyers, and can bring all of this fearsome intelligence to bear in their pursuit of universal oblivion. Indeed, in a galaxy overspilling with genocidal despots, Destroyer Lords remain worthy of mention as something truly horrific. Where others kill for pleasure, or in service to some malignant god, Destroyer Lords pursue their bloody crusade simply because they can."/>
+	<entry name="Necrons/DoomScythe" value="Doom Scythe"/>
+	<entry name="Necrons/DoomScytheDescription" value="Versatile airborne fighter unit."/>
+	<entry name="Necrons/DoomScytheFlavor" value="Doom Scythes are heralds of terror and dismay. These supersonic fighter craft range ahead of a Necron army, drawing upon their strategic datastacks to operate with virtual autonomy. Whether performing terror-raids as a precursor to invasion, keeping the air free of enemy aircraft, or launching overwhelming strike missions against key strategic targets, Doom Scythe pilots will complete their task with merciless precision."/>
+	<entry name="Necrons/DoomsdayArk" value="Doomsday Ark"/>
+	<entry name="Necrons/DoomsdayArkDescription" value="Vehicle unit with devastating firepower."/>
+	<entry name="Necrons/DoomsdayArkFlavor" value="Victory through overwhelming firepower is a common tenet of Necron strategic thinking. Nowhere is this more evident than in the Doomsday Ark. Though deceptively fragile at first glance, the Doomsday Ark is a self-propelled energy cannon whose raw, unsubtle firepower is so vastly destructive that a single shot can turn the tide of a battle."/>
+	<entry name="Necrons/Headquarters" value="<string name='Buildings/Necrons/Headquarters'/>"/>
+	<entry name="Necrons/HeadquartersDescription" value="Headquarters unit that represents a city's defenses."/>
+	<entry name="Necrons/HeadquartersFlavor" value="<string name='Buildings/Necrons/HeadquartersFlavor'/>"/>
+	<entry name="Necrons/HeavyDestroyer" value="Heavy Destroyers"/>
+	<entry name="Necrons/HeavyDestroyerDescription" value="Powerful anti-armour infantry unit."/>
+	<entry name="Necrons/HeavyDestroyerFlavor" value="Armed with oversized gauss cannons, Heavy Destroyers send blazing energy blasts searing across the battlefield. These heavily armed adherents of the Destroyer Cults glide across scorched earth scanning for victims, the flickering light of their weapons' energy cores echoing the cold hatred in their optics. When a Heavy Destroyer's targeting lens focuses upon an enemy, the battlefield recedes in its mind until only hunter and prey remain, the compulsion to kill drowning out everything else."/>
+	<entry name="Necrons/Lord" value="Lord"/>
+	<entry name="Necrons/LordDescription" value="Iconic hero unit with versatile abilities."/>
+	<entry name="Necrons/LordFlavor" value="These Lords of the Necrons, though lesser in stature and power than an Overlord or phaeron, are nonetheless formidable foes in their own right, and often march to war at the head of a vast mechanical army. Independent of their monarchs, Lords are cunning leaders and pitiless commanders, focused upon the destruction of their foes and their own personal glory."/>
+	<entry name="Necrons/Monolith" value="Monolith"/>
+	<entry name="Necrons/MonolithDescription" value="Heavily armed and armoured skimmer unit with an eternity gate."/>
+	<entry name="Necrons/MonolithFlavor" value="The Monolith is an ancient war monument of unimaginable destructive potential. When its massive silhouette looms over a battlefield, it will lay waste to entire armies with strobing torrents of gauss fire and the deafening crack of its particle whip."/>
+	<entry name="Necrons/NightScythe" value="Night Scythe"/>
+	<entry name="Necrons/NightScytheDescription" value="Airborne transport unit."/>
+	<entry name="Necrons/NightScytheFlavor" value="The Night Scythe is the Necrons' favoured tool of invasion, a sickle-winged herald of woe that possesses the ability to beam Necrons directly into battle. Manoeuvrable enough to evade orbital defences and interceptors, and swift enough to outpace mustering foes, Night Scythes can ghost through a defence perimeter to deploy invasion forces well behind enemy lines."/>
+	<entry name="Necrons/Obelisk" value="Obelisk"/>
+	<entry name="Necrons/ObeliskDescription" value="Super-heavy skimmer unit with powerful anti-air capabilities."/>
+	<entry name="Necrons/ObeliskFlavor" value="The Obelisk hovers low over the battlefield, the somnolent hum of its gravitic repulsors sowing dread in the hearts of the foe. As it drifts into view, black lightning arcing across its glowing hull, the Obelisk presents a darkly majestic sight. Yet wonder turns swiftly to horror as the Obelisk's weapons cycle up, glowing tesla spheres irising open to spit crawling skeins of lightning that reduce those nearby to blackened, twitching husks."/>
+	<entry name="Necrons/TesseractVault" value="Tesseract Vault"/>
+	<entry name="Necrons/TesseractVaultDescription" value="Super-heavy skimmer unit with an array of incredibly devastating powers."/>
+	<entry name="Necrons/TesseractVaultFlavor" value="Only a race as ruthless and self-serving as the Necrons would think of unleashing a Tesseract Vault to further their aims -- though each Vault is a potent weapon of war, the beings held within these floating prisons pose an almost incalculable threat."/>
+	<entry name="Necrons/TombBlade" value="Tomb Blades"/>
+	<entry name="Necrons/TombBladeDescription" value="Fast reconnaissance unit."/>
+	<entry name="Necrons/TombBladeFlavor" value="Operated by slaved Necron warriors but guided by super-complex navigation programs, these contra-gravity craft move with a speed and agility no living pilot could hope to match."/>
+	<entry name="Necrons/TranscendentCtan" value="Transcendent C'tan"/>
+	<entry name="Necrons/TranscendentCtanDescription" value="Monstrous creature unit with an array of devastating powers."/>
+	<entry name="Necrons/TranscendentCtanFlavor" value="Transcendent C'tan are all that remain of the once mighty star-gods. They are echoes of their former selves, splinters of energy that survived the Necrons' betrayal and were trammelled in tesseract labyrinths. Ancient, archaic technologies shackle these beings to the will of their Necron masters, compelling them to obey and reducing them to the merest echoes of their ancient majesty. Yet even in their reduced and fettered state, Transcendent C'tan are still beings of immense power."/>
+	<entry name="Necrons/TriarchPraetorian" value="Triarch Praetorians"/>
+	<entry name="Necrons/TriarchPraetorianDescription" value="Elite jump infantry unit."/>
+	<entry name="Necrons/TriarchPraetorianFlavor" value="The Triarch Praetorians are the ancient law keepers of the Necron race, peerless warriors charged with the survival of the dynasties and the primacy of the ancient Necrontyr codes."/>
+	<entry name="Necrons/TriarchStalker" value="Triarch Stalker"/>
+	<entry name="Necrons/TriarchStalkerDescription" value="Versatile walker unit."/>
+	<entry name="Necrons/TriarchStalkerFlavor" value="Like an enormous spider, a Triarch Stalker looms over the battlefield, its devastating weaponry directed by a high-ranking Triarch Praetorian. When a Triarch Stalker advances, it does so with a speed and surety that belies its jerking gait. Indeed, it can cover all manner of terrain with a deftness and precision seldom found in the walkers of less advanced races."/>
+	<entry name="Necrons/Warrior" value="Warriors"/>
+	<entry name="Necrons/WarriorDescription" value="Basic infantry unit."/>
+	<entry name="Necrons/WarriorFlavor" value="Even with only a glimmer of consciousness to guide it, a Necron Warrior is a fearsome and resilient foe. Armed with ancient energy weapons, they can scythe down their enemies with lethal volleys of gauss flayer fire, while their unyielding metal bodies repair themselves should they sustain damage."/>
+	<entry name="Neutral/Artefacts/AncientExterminatusDevice" value="Ancient Exterminatus Device"/>
+	<entry name="Neutral/Artefacts/AncientExterminatusDeviceDescription" value="Mobile artefact unit that can destroy the planet."/>
+	<entry name="Neutral/Artefacts/AncientExterminatusDeviceFlavor" value="This suitcase-sized device is not a true 'Exterminatus', of course -- but the Techmarines have dubbed it such, given its capability to utterly devastate a large area of the battlefield from a great distance, much like an Exterminatus first impact."/>
+	<entry name="Neutral/Artefacts/Damage" value="Old One Artefact"/>
+	<entry name="Neutral/Artefacts/DamageDescription" value="Stationary artefact unit that increases the damage."/>
+	<entry name="Neutral/Artefacts/DamageFlavor" value="This artefact is clearly of Old One design but, despite that, has no immediate effect -- until combat is joined, whereupon a psychic roar shakes the warp and all living races feel themselves driven into a frenzy of bloodlust. Even the soulless Necrons are driven to greater efforts, albeit by the sight of their ancient enemy's designs."/>
+	<entry name="Neutral/Artefacts/Healing" value="Archaicopia"/>
+	<entry name="Neutral/Artefacts/HealingDescription" value="Stationary artefact unit that restores hitpoints each turn."/>
+	<entry name="Neutral/Artefacts/HealingFlavor" value="Hollow like a blown egg, this artefact houses a range of ancient analgesic flora and associated hydroponic devices that would attract the eye of any ancient collector. Processing units on this artefact's underside end in various spigots and ducts out of which flows a mucilaginous syrup that nourishes the living races and is a perfect lubricant, even for living metal."/>
+	<entry name="Neutral/Artefacts/Hitpoints" value="Mobile Holoprojector"/>
+	<entry name="Neutral/Artefacts/HitpointsDescription" value="Stationary artefact unit that increases the hitpoints."/>
+	<entry name="Neutral/Artefacts/HitpointsFlavor" value="This holoprojector may be monolithic, but it's never where you think it is. Once you've blundered into the actual holoprojector, you can deploy its capabilities on nearby units, massively increasing their survivability as enemy shots and blows are wasted."/>
+	<entry name="Neutral/Artefacts/Loyalty" value="Siren Caster"/>
+	<entry name="Neutral/Artefacts/LoyaltyDescription" value="Stationary artefact unit that increases the loyalty."/>
+	<entry name="Neutral/Artefacts/LoyaltyFlavor" value="The multiple ventricles on this artefact flap gently in the planet's constant zephyrs, producing a noise like organic wind chimes. All who hear this song feel themselves pleasantly calmed, as if a matriarchal hand was laid gently upon their shoulder."/>
+	<entry name="Neutral/Artefacts/Movement" value="Ancient Pathcutter"/>
+	<entry name="Neutral/Artefacts/MovementDescription" value="Stationary artefact unit that increases the movement."/>
+	<entry name="Neutral/Artefacts/MovementFlavor" value="This strange artefact bristles with weaponry -- none of which has any effect on living creatures. Instead, it solely seems to target foliage and inanimate objects, aging and eroding them rapidly. This means, once controlled,  it can be assigned to clear a path for any of your troops from a distance."/>
+	<entry name="Neutral/Artefacts/Sight" value="Full Spectrum Analyser"/>
+	<entry name="Neutral/Artefacts/SightDescription" value="Stationary artefact unit that increases the sight."/>
+	<entry name="Neutral/Artefacts/SightFlavor" value="A tiny crawlspace on this artefact allows access to a great internal chamber, which displays geographical data, readouts and holographs of the nearby area. Wise commanders will use this to hunt out enemies and relay targeting information to their troops. "/>
+	<entry name="Neutral/Artefacts/VaulControlDevice" value="Vaul Control Device"/>
+	<entry name="Neutral/Artefacts/VaulControlDeviceDescription" value="Mobile artefact unit used to control the gift of the Silent King."/>
+	<entry name="Neutral/Artefacts/VaulControlDeviceFlavor" value="No creature alive today could hope to create a device like this. Only the Crypteks -- after aeons of study -- can understand enough of the Old Ones' technology to exercise reliable control over it."/>
+	<entry name="Neutral/Ambull" value="Ambulls"/>
+	<entry name="Neutral/AmbullDescription" value="Powerful native brawler unit that regenerates hitpoints each turn."/>
+	<entry name="Neutral/AmbullFlavor" value="The Ambull is an ape-like Xenos species native to the desert Death World of Luther McIntyre IX, which has spread throughout the Imperium of man (presumably as a result of failed attempts at domestication). They are a subterranean race, able to move through ice, sand or rock at speed, and prone to excavating long tunnels as homes."/>
+	<entry name="Neutral/CatachanDevil" value="Catachan Devil"/>
+	<entry name="Neutral/CatachanDevilDescription" value="Devastating native unit that frightens enemies and fights in a reckless rage."/>
+	<entry name="Neutral/CatachanDevilFlavor" value="Native to the death world Catachan, the Devil is scorpion-like in appearance, with a long segmented body ending in a poisonous barbed tail. A full-grown Devil can reach up to thirty meters in length, with the sixty legs of a mature 'Fiddler' allowing it to move at great speeds through all terrain. Once it's upon its prey, it will either shred it with its claws or stun it with its barbs, before consuming it."/>
+	<entry name="Neutral/CatachanDevilLair" value="Catachan Devil Lair"/>
+	<entry name="Neutral/CatachanDevilLairDescription" value="Stationary structure unit that spawns Catachan Devils over time."/>
+	<entry name="Neutral/Enslaver" value="Enslavers"/>
+	<entry name="Neutral/EnslaverDescription" value="Highly dangerous warp unit that enslaves the mind of its enemies."/>
+	<entry name="Neutral/EnslaverFlavor" value="During the War in Heaven, legend tells that the Old Ones engineered new Warp-sensitive species to defeat the C'tan -- Krork, Eldar, Man and more. Yet they bargained without the denizens of the warp, the most numerous of which were the Enslavers or Psyrens. These transdimensional beings were able to rapidly enslave the new races, and hence aided in the downfall of the Old Ones. Today, Enslaver incursions are rare, but extremely destructive unless ended quickly."/>
+	<entry name="Neutral/KastelanRobot" value="Kastelan Robot"/>
+	<entry name="Neutral/KastelanRobotDescription" value="Extremely durable and heavily armed combat robot unit."/>
+	<entry name="Neutral/KastelanRobotFlavor" value="Kastelan Robots are ancient monstrosities that stamp to war, each an unliving giant assigned a deadly purpose by its master. Soulless, these metallic golems are given thought only by the doctrina wafers in their recessed chestslots and the Cybernetica Datasmiths that program their every move. These machines are walking relics from aeons past, and all the deadlier for it -- the air nearby thrums with power, bullets ricocheting from repulsor fields that glow like golden cages around them. Volleys of phosphor blasts and promethium incinerate their foes wherever they may hide, and crushing fists bring ruin wherever they strike. The violence meted out by each maniple is as inspiring to the Omnissiah's faithful as it is terrifying to his foes."/>
+	<entry name="Neutral/KrootHound" value="Kroot Hounds"/>
+	<entry name="Neutral/KrootHoundDescription" value="Agile predator unit that is particularly dangerous in forests."/>
+	<entry name="Neutral/KrootHoundFlavor" value="The pseudo-avian Kroot is uniquely flexible, able to absorb the genetic data of other races by consuming them, but sometimes isolated Kroot communities run into evolutionary dead ends. The Kroot Hound is one such dead end, a devolution of the Kroot into a wolf-like species. On Gladius Prime, they have run feral for generations."/>
+	<entry name="Neutral/LordOfSkulls" value="Lord of Skulls"/>
+	<entry name="Neutral/LordOfSkullsDescription" value="Almost unstoppable war engine that can slaughter entire armies."/>
+	<entry name="Neutral/LordOfSkullsFlavor" value="Grinding across the battlefield on rumbling tracks, the Lord of Skulls towers over its terrified foes. Given life by the raging spirit of a Bloodthirster bound within its hull, and powered by the boiling blood of murderers, this unholy engine of war is death to all who stand before it. Its devastating guns reduce swathes of victims to ruin, drowning them in jets of red-hot gore or burying them under rains of gnashing skulls. As it ploughs through the enemy ranks, the Daemon Engine wields its roaring cleaver with a speed and skill that is entirely horrifying in something so huge. Entire ranks of enemy warriors are swept away with a single swing, tanks and monstrous beasts swatted through the air like toys. Even towering war engines such as Stompas or Titans are made to look clumsy and sluggish as the Lord of Skulls hacks off their limbs and tears open their armoured torsos amid blossoms of dirty flame. Few warriors can face the Lord of Skulls and live, for it is a machine of absolute destruction."/>
+	<entry name="Neutral/Psychneuein" value="Psychneuein"/>
+	<entry name="Neutral/PsychneueinDescription" value="Airborne elusive warp unit that infests its victims."/>
+	<entry name="Neutral/PsychneueinFlavor" value="A rare Warp-sensitive creature apparently native to Prospero, the Psychneuein seems capable of travel through the Old One's Webways, meaning they're widely distributed around the galaxy. Parallel evolution has resulted in a wasp-like appearance, but a mature adult's significant strength, speed, toughness and rumoured ability to turn insubstantial at will makes them a threat to any sentient being."/>
+	<entry name="Neutral/TechpriestBetrayer" value="Techpriest Betrayer"/>
+	<entry name="Orks/Battlewagon" value="Battlewagon"/>
+	<entry name="Orks/BattlewagonDescription" value="Heavily armoured transport vehicle unit."/>
+	<entry name="Orks/BattlewagonFlavor" value="Ork Battlewagons rumble to war on a collection of tracks, tyres and massive spiked rollers. Whether lumbering gun-fortresses, bright red speedsters or gaudy rust buckets smeared with Ork glyphs, Battlewagons are massive slabs of motorised junk built to carry big mobs of greenskins into battle. No matter each Battlewagon's individual peculiarities, all fulfil the essential role of armoured attack vehicle. A solid wedge of these mighty tanks can provide a warband with a (somewhat rusty) mailed fist that can be jammed right down the throat of the enemy army."/>
+	<entry name="Orks/Boy" value="Boyz"/>
+	<entry name="Orks/BoyDescription" value="Basic infantry unit that excels in close combat."/>
+	<entry name="Orks/BoyFlavor" value="Ork Boyz are the heart and soul of any warband. They charge into battle in a great mass, crashing into the enemy like a green landslide. Bellowing with the joy of battle, mobs of Ork Boyz excel at close quarters where they can hack, bludgeon and stamp their foes into bloody ruin. The average Ork Boy is mean-tempered and exceptionally tough, more than compensating for his lack of intellect with a talent for violence."/>
+	<entry name="Orks/BurnaBommer" value="Burna-Bommer"/>
+	<entry name="Orks/BurnaBommerDescription" value="Fast and lightly armoured bomber unit that easily scorches large infantry formations in cover."/>
+	<entry name="Orks/BurnaBommerFlavor" value="Burna-bommers are an inevitable by-product of the Orks' love for speed, fire, and the desire to combine these things while killing something. Strapped with as many incendiary bombs and rockets as is physically feasible, Burna-bommers streak low over the battlefield, raining conflagrant death down on tightly-packed enemy infantry."/>
+	<entry name="Orks/Dakkajet" value="Dakkajet"/>
+	<entry name="Orks/DakkajetDescription" value="Fast and lightly armoured aircraft unit that excels against ground targets."/>
+	<entry name="Orks/DakkajetFlavor" value="Streaking into battle through war-scorched skies, a Dakkajet's massive thruster leaves an oily contrail of black smoke in its wake even as its guns spit streams of bullets at the foe. Though not as nimble as the aircraft of some other races, Dakkajets are capable of an incredible turn of speed that makes them a fearsome enemy to face in aerial combat. It also helps that Orks fly like complete headcases."/>
+	<entry name="Orks/Deffkopta" value="Deffkoptas"/>
+	<entry name="Orks/DeffkoptaDescription" value="Versatile skirmisher unit that can fly across obstacles."/>
+	<entry name="Orks/DeffkoptaFlavor" value="Deffkoptas buzz across the battlefield, weaving through the sky on a trail of foul-smelling smoke. As they swoop low over the heads of the enemy, the fiendish Ork flying machines fire punishing salvoes of shot, rokkits and bomms into their midst. Leaving flames and blood-splattered craters in their wake, the Deffkoptas jink erratically away, already hunting for their next victims."/>
+	<entry name="Orks/GargantuanSquiggoth" value="Gargantuan Squiggoth"/>
+	<entry name="Orks/GargantuanSquiggothDescription" value="Massive fearsome beast unit that crushes enemy troops and serves as a transport."/>
+	<entry name="Orks/GargantuanSquiggothFlavor" value="Squiggoths are Orkoid monstrosities, towering hulks made of little more than muscle and bad temper. They are distantly related to Squigs and have all savagery and single-mindedness of their smaller cousins, but Squiggoths can grow so large that they dwarf tanks and even buildings. Goaded by the Orks that ride on a howdah upon its back, the Squiggoth thuds into battle, the ground tremblind beneath its feet."/>
+	<entry name="Orks/Gorkanaut" value="Gorkanaut"/>
+	<entry name="Orks/GorkanautDescription" value="Massive heavily armoured walker unit that rains death and destruction upon its opponents."/>
+	<entry name="Orks/GorkanautFlavor" value="A Gorkanaut is everything an Ork aspires to be. Massive, tough, loud and destructive, its blocky silhouette looms menacingly over friend and foe alike. From its hulking, orkoid shape to the brutal weapons it wields, a Gorkanaut epitomises the unsubtle brutality of Gork and his no-nonsense way of war. Every Gorkanaut is essentially a massively overbuilt armoured war suit bristling with dakka and packing an armoured claw the size of a Killa Kan."/>
+	<entry name="Orks/Headquarters" value="<string name='Buildings/Orks/Headquarters'/>"/>
+	<entry name="Orks/HeadquartersDescription" value="Headquarters unit that represents a city's defenses."/>
+	<entry name="Orks/HeadquartersFlavor" value="<string name='Buildings/Orks/HeadquartersFlavor'/>"/>
+	<entry name="Orks/KillaKan" value="Killa Kans"/>
+	<entry name="Orks/KillaKanDescription" value="Lightly armoured walker unit that scorches its enemies."/>
+	<entry name="Orks/KillaKanFlavor" value="The Killa Kans' grot pilots put their relative skill with firearms to good use, blowing the zog out of anything unlucky enough to cross their path. Despite being hardwired into a ten-foot tall killing machine, Killa Kan pilots still retain a good degree of Gretchin cowardice. As a result they still believe in safety in numbers, and have a bad habit of losing their nerve under fire. It is not unheard of for Killa Kans to waddle about in circles or freeze up entirely at the first sign of danger."/>
+	<entry name="Orks/Meganob" value="Meganobz"/>
+	<entry name="Orks/MeganobDescription" value="Heavy infantry unit."/>
+	<entry name="Orks/MeganobFlavor" value="The richest and most battle-hardened Nobz can become Meganobz by paying a Mek to build them a suit of mega armour. Piston-driven and covered in enough protective plating to turn its wearer into a walking tank, this armour is incredibly expensive. Yet it serves as the ultimate greenskin status symbol. Though other Orks mock the Meganobz for wearing so much armour, only the dullest would do so within earshot. Even a direct hit from a tank round is unlikely to do more than knock a Meganob over, worsening his already foul temper. For many, the only chance of surviving an encounter with an angry Meganob is to outrun him."/>
+	<entry name="Orks/Mek" value="Meks"/>
+	<entry name="Orks/MekDescription" value="Infantry unit that repairs vehicles and founds new cities."/>
+	<entry name="Orks/MekFlavor" value="Without Mekboyz, Orks would lack for light, power, transport, and even guns (they lack for sanitation regardless, but that's another story). Whenever an Ork needs something building, be it a shiny new shoota or the boss' new ride, they go straight to the Meks. Furthermore, an Ork with teef to spare will take existing kit to the nearest Mek in the hope of having damage repaired, and maybe some kustomising done. It is a rare day that the customer gets what he asked for, but whatever the Mek turns out will normally be fairly flash all the same."/>
+	<entry name="Orks/MekGun" value="Mek Gunz"/>
+	<entry name="Orks/MekGunDescription" value="Armoured anti-air unit."/>
+	<entry name="Orks/MekGunFlavor" value="The roar of Mek Gunz has heralded the end for many a hapless foe. Spitting out blasts of crackling energy, swatting planes out of the air or crushing their victims in crackling fists of bright green force, these big, clanky field guns have enough dakka to stomp even the toughest targets. Of course, as no self-respecting Ork would be left behind when there's a fight in the offing, crewing the gunz is left to the long-suffering grots."/>
+	<entry name="Orks/Painboy" value="Painboy"/>
+	<entry name="Orks/PainboyDescription" value="Hero unit that heals and augments allied infantry."/>
+	<entry name="Orks/PainboyFlavor" value="Often referred to by other Orks as Doks, Painboyz are the greenskin equivalent of both surgeons and dentists. They are driven to perform exploratory surgery on living creatures just as Mekboyz are driven to fiddle with machinery. Devious, deranged, and usually covered in gore from head to toe, Painboyz are a menace to friend and foe alike."/>
+	<entry name="Orks/Tankbusta" value="Tankbustas"/>
+	<entry name="Orks/TankbustaDescription" value="Infantry unit that excels against heavily armoured targets."/>
+	<entry name="Orks/TankbustaFlavor" value="Tankbustas are Orks who have become completely addicted to the thrill of destroying the armoured fighting vehicles of their foes. Their desire to hunt down and slay the biggest, most dangerous tanks they can find echoes the primal instinct of the big game hunter."/>
+	<entry name="Orks/Warboss" value="Warboss"/>
+	<entry name="Orks/WarbossDescription" value="Hero unit that crushes enemies in close combat and inspires allies."/>
+	<entry name="Orks/WarbossFlavor" value="An Ork Warboss is the strongest, toughest, loudest and most violent Ork in his tribe. These massive greenskins seize the lion's share of the loot from every fight, meaning they are usually armed and armoured better than any of their followers. Warbosses are not above making a swift and messy example of anyone whose kit seems shinier or more killy than theirs. They wield absolute authority over their tribe, for greenskin society is based on the idea that might makes right."/>
+	<entry name="Orks/Warbuggy" value="Warbuggies"/>
+	<entry name="Orks/WarbuggyDescription" value="Fast reconnaissance vehicle unit."/>
+	<entry name="Orks/WarbuggyFlavor" value="Orks tend toward light, fast vehicles with big guns that can be cobbled together from any junk to hand. Most are crewed by a mad-eyed Ork driver and cackling gunner, with perhaps a grot or two hanging on for dear life. What they lack in survivability, these crude vehicles make up for in speed, numbers and dakka. They encircle the enemy in speeding squadrons, guns blazing wildly while their crew throw their heads back and howl like Madboyz."/>
+	<entry name="Orks/Weirdboy" value="Weirdboy"/>
+	<entry name="Orks/WeirdboyDescription" value="Hero unit with versatile psy powers."/>
+	<entry name="Orks/WeirdboyFlavor" value="Weirdboyz are the most psychically attuned of all Orks. They are capable of vomiting blasts of Warp energy that can reduce foes to molten goop in seconds. Weirdboyz unconsciously channel the background mental emissions of nearby greenskins. Even a close-run squig-eating contest between two rowdy Boyz will cause waves of energy to pulse through any Weirdboy that strays near. Unless the Weirdboy finds some way to release this pent-up energy his head will explode, detonating the heads of nearby Orks into the bargain. This can prove highly inconvenient."/>
+	<entry name="SpaceMarines/Apothecary" value="Apothecaries"/>
+	<entry name="SpaceMarines/ApothecaryDescription" value="Infantry unit that heals allied infantry."/>
+	<entry name="SpaceMarines/ApothecaryFlavor" value="These courageous field-surgeons face the full heat of battle, their nartheciums healing even grievous injuries, and their vials of combat stimms and anticoagulants quickly getting wounded brothers back into the fight. They also administer the Emperor's grace to those beyond help, extracting the progenoid glands containing the gene-seed so that the Space Marine's legacy might live on."/>
+	<entry name="SpaceMarines/AssaultSpaceMarine" value="Assault Space Marines"/>
+	<entry name="SpaceMarines/AssaultSpaceMarineDescription" value="Melee infantry unit equipped with jump packs to overcome terrain obstacles."/>
+	<entry name="SpaceMarines/AssaultSpaceMarineFlavor" value="The howl of jump pack turbines heralds the meteoric descent of the Assault Marines. Plunging from the sky with bolt pistols blazing, they slam into their foes like a hurricane of destruction. Screaming victims are thrown to the ground, bodies crushed beneath ceramite boots, chests ripped open by snarling chainswords. Within moments the killing is done, and the Assault Marines bound onwards, leaving behind them a ragged wound torn in the enemy's battle line."/>
+	<entry name="SpaceMarines/Captain" value="Captain"/>
+	<entry name="SpaceMarines/CaptainDescription" value="Legendary hero unit that excels in close combat."/>
+	<entry name="SpaceMarines/CaptainFlavor" value="Amid the fire and thunder of the front lines, Space Marine Captains set a peerless example to their brothers as they carve down one enemy after another. Each Captain is a skilled warrior, a veteran of hundreds of battles who has slain whole armies of foes during his celebrated career."/>
+	<entry name="SpaceMarines/Chaplain" value="Chaplain"/>
+	<entry name="SpaceMarines/ChaplainDescription" value="Zealous hero unit that raises morale and inspires loyalty."/>
+	<entry name="SpaceMarines/ChaplainFlavor" value="To meet the baleful gaze of a Space Marine Chaplain is to know that death itself will soon follow. These terrifying warrior-priests can be found wherever the fighting is thickest, inspiring their brothers to greatness with every thunderous blow and roared exhortation."/>
+	<entry name="SpaceMarines/DevastatorSpaceMarine" value="Devastator Space Marines"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineDescription" value="Infantry unit equipped to bring down heavy war machines."/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>
+	<entry name="SpaceMarines/Dreadnought" value="Dreadnought"/>
+	<entry name="SpaceMarines/DreadnoughtDescription" value="Heavy walker unit that crushes opponents in close combat."/>
+	<entry name="SpaceMarines/DreadnoughtFlavor" value="The ground shakes at the advance of a Space Marine Dreadnought. With its mighty power fist and blazing heavy weapon, this armoured war engine tramples a path of destruction through its foes."/>
+	<entry name="SpaceMarines/FortressOfRedemption" value="Fortress of Redemption"/>
+	<entry name="SpaceMarines/FortressOfRedemptionDescription" value="Fortification that automatically gathers resources from adjacent special resource features."/>
+	<entry name="SpaceMarines/FortressOfRedemptionFlavor" value="A Fortress of Redemption is a towering bulwark against the ravages of planetary invasion. Each is virtually impervious to conventional firepower and the lower levels, bunker annexes and sub-crypts can house entire platoons of battle-ready warriors. First used by the Dark Angels Legion during the days of the Great Crusade, they have since been used by every military force in the Imperium and proven invaluable to its defence."/>
+	<entry name="SpaceMarines/Headquarters" value="<string name='Buildings/SpaceMarines/Headquarters'/>"/>
+	<entry name="SpaceMarines/HeadquartersDescription" value="Headquarters unit that represents a city's defenses."/>
+	<entry name="SpaceMarines/HeadquartersFlavor" value="<string name='Buildings/SpaceMarines/HeadquartersFlavor'/>"/>
+	<entry name="SpaceMarines/Hunter" value="Hunter"/>
+	<entry name="SpaceMarines/HunterDescription" value="Tank unit that is specialized in taking down skimmers and flyers targets."/>
+	<entry name="SpaceMarines/HunterFlavor" value="From out of its massive turreted warhead chamber, the Hunter sends skyspear missiles thundering into the heavens. Emitting a piercing scream as it tears across the firmament, each of these sacred rounds seeks out the skyborne foes of the Emperor. Entombed in the heart of each missile, a servitor savant guides the ordnance to its foe. Even if the missile flies wide of its mark, the hard-wired savant will set it back on course."/>
+	<entry name="SpaceMarines/LandSpeeder" value="Land Speeders"/>
+	<entry name="SpaceMarines/LandSpeederDescription" value="Mobile hover vehicle unit that can even traverse water."/>
+	<entry name="SpaceMarines/LandSpeederFlavor" value="Skimming over the battlefield at breakneck speeds, Land Speeders bank and roll with incredible agility. Able to navigate tangled urban ruins, narrow-sided canyons, and even to weave through dense forest canopies, the Land Speeder possesses unrivalled manoeuvrability. This is enhanced by the superhuman reflexes of its Space Marine crew, and capitalised upon through the incorporation of resilient, if light, armour and an arsenal of heavy weapons."/>
+	<entry name="SpaceMarines/Librarian" value="Librarian"/>
+	<entry name="SpaceMarines/LibrarianDescription" value="Hero unit with versatile psychic powers."/>
+	<entry name="SpaceMarines/LibrarianFlavor" value="Eyes blazing and fists crackling with the roiling energies of the Warp, Space Marine Librarians stride into battle to destroy their foes. Some hurl blasts of force that crush their victims to paste, while others twist the flow of time itself, or revitalise their brothers with incredible surges of vitality. However they choose to fight, all Librarians are powerful psykers, harnessing the potent mutation they bear as a force to defend Humanity."/>
+	<entry name="SpaceMarines/Predator" value="Predator"/>
+	<entry name="SpaceMarines/PredatorDescription" value="Main battle tank unit."/>
+	<entry name="SpaceMarines/PredatorFlavor" value="A swift and brutal fighting vehicle, the Predator provides the Space Marine Chapters with prodigious amounts of fire support. The battle tank's heavy bolters and autocannon are the bane of infantry and light vehicles, while the Annihilator variant's lascannons spell doom to any armoured enemy."/>
+	<entry name="SpaceMarines/ScoutBiker" value="Scout Bikers"/>
+	<entry name="SpaceMarines/ScoutBikerDescription" value="Fast reconnaissance unit."/>
+	<entry name="SpaceMarines/ScoutBikerFlavor" value="Racing across the blasted battlegrounds of the 41st Millennium, Scout Bikers use their speed and manoeuvrability to outflank and outwit their foes. Shadowing their enemies' movements, the Scout Bikers probe for weaknesses and assess the foe's intentions. Only once the element of surprise is guaranteed do they strike, roaring suddenly from concealment with guns blazing."/>
+	<entry name="SpaceMarines/StormravenGunship" value="Stormraven Gunship"/>
+	<entry name="SpaceMarines/StormravenGunshipDescription" value="Heavily armed and armoured airborne transport unit."/>
+	<entry name="SpaceMarines/StormravenGunshipFlavor" value="Stormraven Gunships streak into battle with their weapons blazing, flak whipping around them as they rake the foe with bolts, blasts and warheads. More akin to a flying tank than a conventional dropship, the Stormraven is the most versatile aircraft in the arsenal of the Adeptus Astartes. Fast, manoeuvrable, resilient, boasting prodigious firepower and a substantial transport capacity, the Stormraven can perform many different roles."/>
+	<entry name="SpaceMarines/StormtalonGunship" value="Stormtalon Gunship"/>
+	<entry name="SpaceMarines/StormtalonGunshipDescription" value="Airborne interceptor and ground-attack unit."/>
+	<entry name="SpaceMarines/StormtalonGunshipFlavor" value="The smaller Stormtalon Gunship is incredibly fast and agile, and makes a superb air-interceptor and ground attack craft. With a single press of a trigger, the Stormtalon's pilot purges his victims from existence amid a whistling hail of missiles, bolts and las blasts. All the while, the Stormtalon jinks and weaves with incredible speed, enemy fire slicing around it to no avail."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine" value="Tactical Space Marines"/>
+	<entry name="SpaceMarines/TacticalSpaceMarineDescription" value="Versatile infantry unit."/>
+	<entry name="SpaceMarines/TacticalSpaceMarineFlavor" value="Where an objective must be seized, Tactical Squads attack in a storm of gunfire and combat blades. Where the line must be held, these courageous warriors plant their feet, raise their weapons, and fight to the last. Armed with boltguns and grenades, Tactical Squads are superbly versatile strategic assets."/>
+	<entry name="SpaceMarines/Terminator" value="Terminators"/>
+	<entry name="SpaceMarines/TerminatorDescription" value="Heavily armoured infantry unit that can take on virtually every ground opponent."/>
+	<entry name="SpaceMarines/TerminatorFlavor" value="Near invincible and utterly indomitable, Terminators undertake those missions that even their power-armoured brethren cannot. Whether it be an unsupported strike into the heart of an enemy fortress, or hunting super-heavy war engines on foot, these heroic 1st Company Veterans are equal to the task."/>
+	<entry name="SpaceMarines/ThunderfireCannon" value="Thunderfire Cannon"/>
+	<entry name="SpaceMarines/ThunderfireCannonDescription" value="Infantry unit equipped with a cannon that provides long-range fire support."/>
+	<entry name="SpaceMarines/ThunderfireCannonFlavor" value="These colossal, quad-barrelled artillery guns are designed to excel in a static defence role. Each is capable of firing and reloading at a punishing rate, unleashing salvo after salvo of high explosive shells, pounding the enemy into oblivion. Only the brave or the foolish dare advance in the face of such overwhelming and obliterating firepower."/>
+	<entry name="SpaceMarines/Vindicator" value="Vindicator"/>
+	<entry name="SpaceMarines/VindicatorDescription" value="Heavy tank unit with a devastating close-range cannon."/>
+	<entry name="SpaceMarines/VindicatorFlavor" value="The Vindicator is a short-ranged sledgehammer of a vehicle, a siege tank whose massive demolisher cannon can reduce any target to a smoking crater. The Vindicator is especially favoured by the Imperial Fists, who regularly field whole squadrons of these tanks and rely upon their concentrated volleys to blast open fortress walls, flatten gun-nests and bunkers, and lay low super-heavy war engines."/>
+	//Modded Units
+	//Space Marines
+	//Devastor
+	<entry name="SpaceMarines/DevastatorSpaceMarineHB" value="Devastator Space Marines HB"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineHBDescription" value="Infantry unit equipped with Heavy Bolters."/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineHBFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>	
+</language>
