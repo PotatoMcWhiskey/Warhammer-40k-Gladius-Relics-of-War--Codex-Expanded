@@ -23,9 +23,9 @@
 				<grenadeWeapon muzzleBone="LeftHand"/>
 			</model>
 		</weapon>
-		<weapon name="HeavyBolter">
+		<weapon name="KrakMissileLauncher">
 			<model>
-				<projectileWeapon mesh="Weapons/SpaceMarines/DevastatorSpaceMarineLascannon"
+				<missileWeapon mesh="Weapons/SpaceMarines/DevastatorSpaceMarineLascannon"
 						material="Weapons/SpaceMarines/DevastatorSpaceMarineLascannon"
 						bone="RightHand"
 						muzzleBone="Muzzle0"/>

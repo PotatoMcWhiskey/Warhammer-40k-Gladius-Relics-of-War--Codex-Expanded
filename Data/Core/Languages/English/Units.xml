@@ -270,8 +270,22 @@
 	<entry name="SpaceMarines/VindicatorFlavor" value="The Vindicator is a short-ranged sledgehammer of a vehicle, a siege tank whose massive demolisher cannon can reduce any target to a smoking crater. The Vindicator is especially favoured by the Imperial Fists, who regularly field whole squadrons of these tanks and rely upon their concentrated volleys to blast open fortress walls, flatten gun-nests and bunkers, and lay low super-heavy war engines."/>
 	//Modded Units
 	//Space Marines
-	//Devastor
+	//Devastator
+	//Heavy Bolter
 	<entry name="SpaceMarines/DevastatorSpaceMarineHB" value="Devastator Space Marines HB"/>
-	<entry name="SpaceMarines/DevastatorSpaceMarineHBDescription" value="Infantry unit equipped with Heavy Bolters."/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineHBDescription" value="Infantry unit equipped with a Heavy Bolter."/>
 	<entry name="SpaceMarines/DevastatorSpaceMarineHBFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>	
-</language>
+	//Missile Launcher
+	<entry name="SpaceMarines/DevastatorSpaceMarineML" value="Devastator Space Marines ML"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineMLDescription" value="Infantry unit equipped with a Missile Launcher."/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineMLFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>	
+	//PlasmaCannon
+	<entry name="SpaceMarines/DevastatorSpaceMarinePC" value="Devastator Space Marines PC"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarinePCDescription" value="Infantry unit equipped with a PlasmaCannon."/>
+	<entry name="SpaceMarines/DevastatorSpaceMarinePCFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>	
+	//MultiMelta
+	<entry name="SpaceMarines/DevastatorSpaceMarineMM" value="Devastator Space Marines MM"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineMMDescription" value="Infantry unit equipped with a MultiMelta."/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineMMFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>	
+
+	</language>

@@ -23,14 +23,15 @@
 				<grenadeWeapon muzzleBone="LeftHand"/>
 			</model>
 		</weapon>
-		<weapon name="HeavyBolter">
+		<weapon name="MultiMelta">
 			<model>
-				<projectileWeapon mesh="Weapons/SpaceMarines/DevastatorSpaceMarineLascannon"
+				<missileWeapon mesh="Weapons/SpaceMarines/DevastatorSpaceMarineLascannon"
 						material="Weapons/SpaceMarines/DevastatorSpaceMarineLascannon"
+						muzzleCount="1"
 						bone="RightHand"
 						muzzleBone="Muzzle0"/>
 			</model>
-		</weapon>			
+		</weapon>		
 	</weapons>
 	<modifiers>
 		<modifier visible="0">

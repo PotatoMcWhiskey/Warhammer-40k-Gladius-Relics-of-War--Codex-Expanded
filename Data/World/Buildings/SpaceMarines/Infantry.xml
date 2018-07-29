@@ -35,10 +35,19 @@
 	<actions>
 		<produceUnit unit="SpaceMarines/TacticalSpaceMarine"/>
 		<produceUnit unit="SpaceMarines/DevastatorSpaceMarine" requiredUpgrade="SpaceMarines/DevastatorSpaceMarine"/>
-		<produceUnit unit="SpaceMarines/DevastatorSpaceMarineHB"/>
 		<produceUnit unit="SpaceMarines/AssaultSpaceMarine" requiredUpgrade="SpaceMarines/AssaultSpaceMarine"/>
 		<produceUnit unit="SpaceMarines/ThunderfireCannon" requiredUpgrade="SpaceMarines/ThunderfireCannon"/>
 		<produceUnit unit="SpaceMarines/Apothecary" requiredUpgrade="SpaceMarines/Apothecary"/>
 		<produceUnit unit="SpaceMarines/Terminator" requiredUpgrade="SpaceMarines/Terminator"/>
+		//MODDED UNITS
+		//DEVASTATOR
+		//HEAVY BOLTER
+		<produceUnit unit="SpaceMarines/DevastatorSpaceMarineHB" requiredUpgrade="SpaceMarines/DevastatorSpaceMarine"/>
+		//MISSILE LAUNCHER
+		<produceUnit unit="SpaceMarines/DevastatorSpaceMarineML" requiredUpgrade="SpaceMarines/DevastatorSpaceMarine"/>		
+		//MULTI MELTA
+		<produceUnit unit="SpaceMarines/DevastatorSpaceMarineMM" requiredUpgrade="SpaceMarines/DevastatorSpaceMarine"/>		
+		//PLASMA CANNON
+		<produceUnit unit="SpaceMarines/DevastatorSpaceMarinePC" requiredUpgrade="SpaceMarines/DevastatorSpaceMarine"/>
 	</actions>
 </building>
