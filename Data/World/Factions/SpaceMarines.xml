@@ -527,5 +527,6 @@
 		<unit type="SpaceMarines/DevastatorSpaceMarineML"/>
 		<unit type="SpaceMarines/DevastatorSpaceMarinePC"/>
 		<unit type="SpaceMarines/DevastatorSpaceMarineMM"/>
+		<unit type="SpaceMarines/InceptorSpaceMarine"/>
 	</startingUnits>
 </faction>

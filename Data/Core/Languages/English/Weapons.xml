@@ -260,4 +260,8 @@
 	//PlasmaCannon
 	<entry name="PlasmaCannon" value="Plasma Cannon"/>
 	<entry name="PlasmaCannonFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
+	//Bolter
+	//AssaultBolter
+	<entry name="AssaultBolter" value="Assault Bolter"/>
+	<entry name="AssaultBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
 	</language>

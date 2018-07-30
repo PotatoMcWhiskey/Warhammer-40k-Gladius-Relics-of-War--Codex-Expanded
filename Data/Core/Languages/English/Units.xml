@@ -270,6 +270,11 @@
 	<entry name="SpaceMarines/VindicatorFlavor" value="The Vindicator is a short-ranged sledgehammer of a vehicle, a siege tank whose massive demolisher cannon can reduce any target to a smoking crater. The Vindicator is especially favoured by the Imperial Fists, who regularly field whole squadrons of these tanks and rely upon their concentrated volleys to blast open fortress walls, flatten gun-nests and bunkers, and lay low super-heavy war engines."/>
 	//Modded Units
 	//Space Marines
+	//Assault Space Marines
+	//Inceptor Space Marines
+	<entry name="SpaceMarines/InceptorSpaceMarine" value="Inceptor Space Marines"/>
+	<entry name="SpaceMarines/InceptorSpaceMarineDescription" value="Infantry unit equipped with two Assault Bolters"/>
+	<entry name="SpaceMarines/InceptorSpaceMarineFlavor" value="The howl of jump pack turbines heralds the meteoric descent of the Inceptor Marines."/>		
 	//Devastator
 	//Heavy Bolter
 	<entry name="SpaceMarines/DevastatorSpaceMarineHB" value="Devastator Space Marines HB"/>
@@ -287,5 +292,4 @@
 	<entry name="SpaceMarines/DevastatorSpaceMarineMM" value="Devastator Space Marines MM"/>
 	<entry name="SpaceMarines/DevastatorSpaceMarineMMDescription" value="Infantry unit equipped with a MultiMelta."/>
 	<entry name="SpaceMarines/DevastatorSpaceMarineMMFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>	
-
-	</language>
+</language>
